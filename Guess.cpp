@@ -1,8 +1,7 @@
 //
 //  Guess.cpp
-//  program4
 //
-//  Created by Fahreta Hublic on 12/13/21.
+//  Created by Reta Hublic on 12/13/21.
 //
 
 #include <iostream>
